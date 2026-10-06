@@ -1,0 +1,1258 @@
+# Created at 2026-08-20T10:14:58.166
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:210)
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+# Created at 2026-08-20T10:14:58.855
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:14:59.018
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:14:59.176
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:14:59.329
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:14:59.476
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:14:59.636
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:14:59.822
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:00.024
+Unexpected IOException with stream: Typing: 
+              v
+            
+
+
+# Created at 2026-08-20T10:15:00.221
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:00.406
+Unexpected IOException with stream: Typing: 
+              b
+            
+
+
+# Created at 2026-08-20T10:15:00.566
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:00.764
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:00.968
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:01.137
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:01.296
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:01.490
+Unexpected IOException with stream: Typing: 
+              f
+            
+
+
+# Created at 2026-08-20T10:15:01.639
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:01.818
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:01.966
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:02.139
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:02.366
+Unexpected IOException with stream: Typing: 
+              g
+            
+
+
+# Created at 2026-08-20T10:15:02.547
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:02.726
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:02.929
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:03.129
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:03.329
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:03.527
+Unexpected IOException with stream: Typing: 
+              .
+            
+
+
+# Created at 2026-08-20T10:15:03.716
+Unexpected IOException with stream: Typing: 
+              A
+            
+
+
+# Created at 2026-08-20T10:15:03.901
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:04.077
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:04.257
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:04.438
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:04.627
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:04.811
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:05.056
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:05.230
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:05.396
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:05.557
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:05.739
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:05.927
+Unexpected IOException with stream: Typing: 
+              v
+            
+
+
+# Created at 2026-08-20T10:15:06.087
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:06.273
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:06.430
+Unexpected IOException with stream: Typing: 
+              g
+            
+
+
+# Created at 2026-08-20T10:15:06.607
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:06.777
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:06.941
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:07.157
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:07.328
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:07.507
+Unexpected IOException with stream: Typing: 
+              p
+            
+
+
+# Created at 2026-08-20T10:15:07.697
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:07.887
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:08.070
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:08.255
+Unexpected IOException with stream: Typing: 
+              f
+            
+
+
+# Created at 2026-08-20T10:15:08.470
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:08.634
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:08.878
+Unexpected IOException with stream: Typing: 
+              m
+            
+
+
+# Created at 2026-08-20T10:15:09.059
+Unexpected IOException with stream: Typing: 
+              .
+            
+
+
+# Created at 2026-08-20T10:15:09.247
+Unexpected IOException with stream: Typing: 
+              C
+            
+
+
+# Created at 2026-08-20T10:15:09.433
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:09.617
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:09.847
+Unexpected IOException with stream: Typing: 
+              w
+            
+
+
+# Created at 2026-08-20T10:15:10.011
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:10.209
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:10.377
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:10.547
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:10.730
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:10.921
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:11.107
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:11.300
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:11.462
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:11.657
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:11.837
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:12.009
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:12.202
+Unexpected IOException with stream: Typing: 
+              y
+            
+
+
+# Created at 2026-08-20T10:15:12.392
+Unexpected IOException with stream: Typing: 
+              w
+            
+
+
+# Created at 2026-08-20T10:15:12.584
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:12.755
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:12.943
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:13.131
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:13.288
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:13.475
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:13.660
+Unexpected IOException with stream: Typing: 
+              b
+            
+
+
+# Created at 2026-08-20T10:15:13.861
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:14.048
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:14.270
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:14.442
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:14.644
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:14.832
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:15.006
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:15.192
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:15.363
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:15.531
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:15.725
+Unexpected IOException with stream: Typing: 
+              b
+            
+
+
+# Created at 2026-08-20T10:15:15.925
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:16.096
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:16.283
+Unexpected IOException with stream: Typing: 
+              k
+            
+
+
+# Created at 2026-08-20T10:15:16.464
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:16.635
+Unexpected IOException with stream: Typing: 
+              f
+            
+
+
+# Created at 2026-08-20T10:15:16.836
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:17.023
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:17.195
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:17.368
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:17.537
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:17.709
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:17.896
+Unexpected IOException with stream: Typing: 
+              .
+            
+
+
+# Created at 2026-08-20T10:15:18.063
+Unexpected IOException with stream: Typing: 
+              M
+            
+
+
+# Created at 2026-08-20T10:15:18.249
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:18.419
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:18.573
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:18.745
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:18.916
+Unexpected IOException with stream: Typing: 
+              E
+            
+
+
+# Created at 2026-08-20T10:15:19.085
+Unexpected IOException with stream: Typing: 
+              v
+            
+
+
+# Created at 2026-08-20T10:15:19.272
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:19.461
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:19.646
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:19.819
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:20.006
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:20.191
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:20.376
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:20.576
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:20.766
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:20.969
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:21.138
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:21.327
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:21.511
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:21.681
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:21.869
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:22.071
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:22.418
+Unexpected IOException with stream: Typing: 
+              m
+            
+
+
+# Created at 2026-08-20T10:15:22.637
+Unexpected IOException with stream: Typing: 
+              b
+            
+
+
+# Created at 2026-08-20T10:15:22.807
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:22.979
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:23.183
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:23.383
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:23.570
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:23.736
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:23.946
+Unexpected IOException with stream: Typing: 
+              p
+            
+
+
+# Created at 2026-08-20T10:15:24.120
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:24.345
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:24.546
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:24.754
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:24.955
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:25.156
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:25.344
+Unexpected IOException with stream: Typing: 
+              g
+            
+
+
+# Created at 2026-08-20T10:15:25.528
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:25.714
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:25.924
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:26.091
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:26.292
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:26.463
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:26.653
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:26.854
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:27.053
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:27.240
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:27.438
+Unexpected IOException with stream: Typing: 
+              t
+            
+
+
+# Created at 2026-08-20T10:15:27.607
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:27.816
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:28.019
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:28.233
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:28.436
+Unexpected IOException with stream: Typing: 
+              .
+            
+
+
+# Created at 2026-08-20T10:15:28.653
+Unexpected IOException with stream: Typing: 
+              W
+            
+
+
+# Created at 2026-08-20T10:15:28.870
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:29.120
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:29.330
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:29.501
+Unexpected IOException with stream: Typing: 
+              p
+            
+
+
+# Created at 2026-08-20T10:15:29.702
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:29.950
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:30.134
+Unexpected IOException with stream: Typing: 
+              h
+            
+
+
+# Created at 2026-08-20T10:15:30.382
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:30.598
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:30.838
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:31.175
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:31.394
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:31.599
+Unexpected IOException with stream: Typing: 
+              u
+            
+
+
+# Created at 2026-08-20T10:15:31.845
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:32.008
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:32.187
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:32.377
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:32.548
+Unexpected IOException with stream: Typing: 
+              i
+            
+
+
+# Created at 2026-08-20T10:15:32.705
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:32.873
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:33.043
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:33.228
+Unexpected IOException with stream: Typing: 
+              n
+            
+
+
+# Created at 2026-08-20T10:15:33.418
+Unexpected IOException with stream: Typing: 
+              d
+            
+
+
+# Created at 2026-08-20T10:15:33.619
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:33.805
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:33.991
+Unexpected IOException with stream: Typing: 
+              v
+            
+
+
+# Created at 2026-08-20T10:15:34.150
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:34.306
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:34.536
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:34.692
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:34.848
+Unexpected IOException with stream: Typing: 
+              c
+            
+
+
+# Created at 2026-08-20T10:15:35.002
+Unexpected IOException with stream: Typing: 
+              l
+            
+
+
+# Created at 2026-08-20T10:15:35.159
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:35.372
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:35.590
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+
+# Created at 2026-08-20T10:15:35.793
+Unexpected IOException with stream: Typing: 
+              s
+            
+
+
+# Created at 2026-08-20T10:15:35.989
+Unexpected IOException with stream: Typing: 
+              k
+            
+
+
+# Created at 2026-08-20T10:15:36.138
+Unexpected IOException with stream: Typing: 
+              y
+            
+
+
+# Created at 2026-08-20T10:15:36.337
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:36.510
+Unexpected IOException with stream: Typing: 
+              b
+            
+
+
+# Created at 2026-08-20T10:15:36.694
+Unexpected IOException with stream: Typing: 
+              o
+            
+
+
+# Created at 2026-08-20T10:15:36.850
+Unexpected IOException with stream: Typing: 
+              v
+            
+
+
+# Created at 2026-08-20T10:15:37.008
+Unexpected IOException with stream: Typing: 
+              e
+            
+
+
+# Created at 2026-08-20T10:15:37.175
+Unexpected IOException with stream: Typing: 
+              .
+            
+
+
+# Created at 2026-08-20T10:15:37.343
+Unexpected IOException with stream: Typing: 
+              G
+            
+
+
+# Created at 2026-08-20T10:15:37.513
+Unexpected IOException with stream: Typing: 
+              a
+            
+
+
+# Created at 2026-08-20T10:15:37.700
+Unexpected IOException with stream: Typing: 
+              r
+            
+
+

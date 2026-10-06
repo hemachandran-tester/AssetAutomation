@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.playwright.AppTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.194 s - in com.playwright.AppTest
